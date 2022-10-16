@@ -11,6 +11,8 @@
   color: white;
   width: 100%;
   margin-top: -10px;
+  margin-right: -10px;
+  margin-left: -10px;
   margin-bottom: calc(90px - 56px);
 }
 
@@ -90,7 +92,7 @@
 
 hr{
   color:#F5F5F5;
-  margin: 40px 50px 40px auto;
+  margin: 40px 250px 40px auto;
 }
 
 hr:last-of-type{
